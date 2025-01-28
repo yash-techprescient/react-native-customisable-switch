@@ -18,7 +18,6 @@ export default StyleSheet.create({
     alignItems: 'center',
   },
   textContainer: {
-    flex: 1,
     flexDirection: 'row',
     justifyContent: 'center',
     alignItems: 'center',
